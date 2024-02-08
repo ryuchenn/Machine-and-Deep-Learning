@@ -1,2 +1,2 @@
 # MachineLearning
-All I learned about Machine Learning will post in here.
+All I learned about Machine Learning and Deep Learning will post in here.
